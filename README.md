@@ -20,8 +20,9 @@ To get started with the Project To Do List application, follow these steps:
 We welcome contributions from the community to enhance the functionality of the Project To Do List application. To contribute, please follow the guidelines outlined in the `CONTRIBUTING.md` file.
 
 # Contact
-For any inquiries or feedback, please contact me at fadhlanrzkl@gmail.com
+For any inquiries or feedback, please contact me at fadhlanrzkl@gmail.com 
 Enjoy managing your tasks efficiently with Project To Do List!
 
-#Result
-![To Do List](To Do List Result.jpeg)
+# Result
+
+![To Do List Result](https://github.com/fadhlanrzkl/To-Do-List-Project/assets/137671908/4ceec4d2-3015-43d2-b143-8f73cde104c5)
