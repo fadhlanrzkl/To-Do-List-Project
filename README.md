@@ -19,11 +19,9 @@ To get started with the Project To Do List application, follow these steps:
 # Contributing
 We welcome contributions from the community to enhance the functionality of the Project To Do List application. To contribute, please follow the guidelines outlined in the `CONTRIBUTING.md` file.
 
-# License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
-
 # Contact
 For any inquiries or feedback, please contact me at fadhlanrzkl@gmail.com
-
 Enjoy managing your tasks efficiently with Project To Do List!
 
+#Result
+![To Do List](To Do List Result.jpeg)
